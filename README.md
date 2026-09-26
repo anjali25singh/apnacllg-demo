@@ -1,4 +1,4 @@
 # apnacllg-demo
 This ia my first Git Repository
 <br>
-Author-Anjali Singh
+Author-Anjali (apna college)
